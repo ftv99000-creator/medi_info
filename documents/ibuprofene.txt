@@ -1,0 +1,15 @@
+Médicament : Ibuprofène (aussi appelé advil, nurofen, brufen)
+Classe : Anti-inflammatoire non stéroïdien (AINS)
+Indications : Douleurs, fièvre, inflammations, rhumatismes
+Dose maximale adulte : 1200 mg par jour
+Dose pédiatrique : 10 mg par kg de poids corporel
+
+Contre-indications :
+- Ulcère gastrique ou intestinal actif
+- Insuffisance rénale sévère
+- Grossesse au 3ème trimestre
+
+Interactions dangereuses :
+- Warfarine : DANGER, risque hémorragique très accru
+- Aspirine : RISQUE, augmentation des effets indésirables gastro-intestinaux
+- Lithium : DANGER, augmente fortement la toxicité du lithium

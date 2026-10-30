@@ -1,0 +1,13 @@
+Médicament : Warfarine (aussi appelé coumadine, anticoagulant oral)
+Classe : Anticoagulant antivitamine K
+Indications : Prévention des thromboses veineuses, embolie pulmonaire, fibrillation auriculaire
+
+Contre-indications :
+- Grossesse
+- Saignement actif ou risque hémorragique élevé
+
+Interactions dangereuses :
+- Paracétamol : DANGER, potentialise l'effet anticoagulant
+- Ibuprofène : DANGER, risque hémorragique majeur
+- Aspirine : DANGER, risque hémorragique très élevé
+- Amoxicilline : RISQUE, déséquilibre de l'INR

@@ -1,0 +1,21 @@
+Médicament : Amoxicilline (clamoxyl, augmentin)
+Classe : Antibiotique pénicilline
+Indications : Infections bactériennes ORL, pulmonaires, urinaires
+Dose pédiatrique : 25 mg par kg de poids corporel
+
+Contre-indications :
+- Allergie aux pénicillines
+
+---
+
+Médicament : Aspirine (acide acétylsalicylique, aspégic, kardégic)
+Classe : Analgésique, antiagrégant plaquettaire
+Indications : Douleurs, fièvre, prévention cardiovasculaire
+
+Contre-indications :
+- Ulcère gastrique actif
+- Enfants de moins de 16 ans en cas de fièvre virale
+
+Interactions dangereuses :
+- Warfarine : DANGER, risque hémorragique très élevé
+- Ibuprofène : RISQUE, réduit l'effet cardioprotecteur

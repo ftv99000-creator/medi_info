@@ -1,0 +1,13 @@
+Médicament : Paracétamol (aussi appelé doliprane, efferalgan, dafalgan)
+Classe : Analgésique et antipyrétique
+Indications : Traitement des douleurs légères à modérées, fièvre
+Dose maximale adulte : 4000 mg par jour, soit 1g toutes les 6 heures
+Dose pédiatrique : 15 mg par kg de poids corporel
+
+Contre-indications :
+- Insuffisance hépatique sévère
+- Allergie au paracétamol
+
+Interactions dangereuses :
+- Warfarine (anticoagulant) : DANGER, augmente l'effet anticoagulant, risque hémorragique
+- Alcool : RISQUE, toxicité hépatique fortement accrue, éviter toute consommation
